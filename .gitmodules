@@ -1,0 +1,9 @@
+[submodule "libraries"]
+	path = libraries
+	url = https://github.com/PatrickBaus/KiCad-libraries
+[submodule "footprints.pretty"]
+	path = footprints.pretty
+	url = https://github.com/PatrickBaus/footprints.pretty
+[submodule "footprints.3dshapes"]
+	path = footprints.3dshapes
+	url = https://github.com/PatrickBaus/footprints.3dshapes
