@@ -3,7 +3,7 @@ LT3042/LT3045 Breakout Board
 
 This repository contains the KiCAD PCB project files for a breakout board for the Linear Technologies LT3042/LT3045  ultralow noise, ultrahigh PSRR, 200/500 mA LDO regulator (http://www.linear.com/product/LT3042, http://www.linear.com/product/LT3045).
 
-![LT3045 breakout board](/images/LT3045-breakout.png)
+![LT3045 breakout board](/images/LT3045_breakout.png)
 
 About
 -----
