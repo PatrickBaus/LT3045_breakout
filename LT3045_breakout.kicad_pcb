@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 104.477381 86.924999 130.022619 110.925001)
     (thickness 1.6)
-    (drawings 7)
+    (drawings 8)
     (tracks 129)
     (zones 0)
     (modules 12)
@@ -856,6 +856,9 @@
     )
   )
 
+  (gr_text 78xx (at 121.3 91.9) (layer B.SilkS)
+    (effects (font (size 0.8 0.8) (thickness 0.2)) (justify mirror))
+  )
   (gr_text "by Patrick Baus" (at 118.1 98.25) (layer B.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.2)) (justify mirror))
   )
