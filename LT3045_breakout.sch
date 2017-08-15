@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:Linear Technology
 LIBS:net-tie
+LIBS:LT3045_breakout-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -93,7 +94,7 @@ L R R1
 U 1 1 5989486E
 P 4800 3600
 F 0 "R1" H 4870 3646 50  0000 L CNN
-F 1 "100k" H 4870 3555 50  0000 L CNN
+F 1 "121k" H 4870 3555 50  0000 L CNN
 F 2 "Resistors_SMD:R_0603" V 4730 3600 50  0001 C CNN
 F 3 "" H 4800 3600 50  0001 C CNN
 	1    4800 3600
@@ -142,7 +143,7 @@ L R R2
 U 1 1 598949E9
 P 5300 3600
 F 0 "R2" H 5370 3646 50  0000 L CNN
-F 1 "100k" H 5370 3555 50  0000 L CNN
+F 1 "300" H 5370 3555 50  0000 L CNN
 F 2 "Resistors_SMD:R_0603" V 5230 3600 50  0001 C CNN
 F 3 "" H 5300 3600 50  0001 C CNN
 	1    5300 3600
@@ -315,4 +316,8 @@ Text Notes 6350 2450 0    60   ~ 0
 PG functionality is required,\nbecause we want the fast-startup\nfeature.
 Wire Wire Line
 	2200 2700 4300 2700
+Text Notes 3300 3650 0    60   ~ 0
+V_out = 100 µA * R
+Text Notes 5650 3650 0    60   ~ 0
+I_lim = 150 kΩ / R * mA
 $EndSCHEMATC
