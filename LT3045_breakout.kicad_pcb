@@ -826,7 +826,7 @@
   (gr_text Rset (at 122.4 96.2 90) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (gr_text G (at 116.8 98.8) (layer F.SilkS)
+  (gr_text G (at 118.1 98.5) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.2)))
   )
   (gr_text O (at 122.5 100.3) (layer F.SilkS)
