@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 104.477381 86.924999 130.022619 110.925001)
     (thickness 1.6)
-    (drawings 12)
+    (drawings 14)
     (tracks 124)
     (zones 0)
     (modules 11)
@@ -616,9 +616,9 @@
     (pad 1 thru_hole rect (at 0 0 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 5 /out))
     (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Angled_1x03_Pitch2.54mm.wrl
-      (at (xyz 0 -0.1 0))
+      (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -820,6 +820,12 @@
     )
   )
 
+  (gr_text Rlim (at 113.9 97.1 90) (layer F.SilkS)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (gr_text Rset (at 122.4 96.2 90) (layer F.SilkS)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
   (gr_text G (at 116.8 98.8) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.2)))
   )
