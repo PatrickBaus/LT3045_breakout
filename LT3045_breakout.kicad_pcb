@@ -14,7 +14,7 @@
 
   (page A4)
   (layers
-    (0 F.Cu jumper)
+    (0 F.Cu signal)
     (31 B.Cu signal)
     (34 B.Paste user)
     (35 F.Paste user)
