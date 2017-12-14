@@ -270,7 +270,7 @@ Wire Wire Line
 Wire Wire Line
 	8050 4250 8050 2700
 Connection ~ 7000 2700
-Text Label 8050 2700 0    60   ~ 0
+Text Label 2250 2900 0    60   ~ 0
 out
 Wire Wire Line
 	7000 3850 7000 3800
@@ -334,4 +334,6 @@ Text Notes 7300 3450 0    60   ~ 0
 V_PG = 0.3 V * (1 + R3/R2)
 Text Notes 8250 3100 0    60   ~ 0
 Values R1, R2, R3 were calculated for\nVout = 12 V\nV_PG = 11 V
+Text Label 2250 2700 0    60   ~ 0
+in
 $EndSCHEMATC
