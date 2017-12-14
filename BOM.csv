@@ -1,0 +1,12 @@
+Date:,2017-12-14T22:19:19 CET,,,,,
+Tool:,Eeschema (2017-06-16 revision 2018d4894)-master,,,,,
+Component Count:,10,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
+"C3, C1, C2, ",3,10u,GRM188R6YA106MA73D,Capacitors_SMD:C_0603,Unpolarized capacitor,Murata
+"J1, ",1,CONN_01X03,68016-403HLF,Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm,"Generic connector, single row, 01x03",Amphenol
+"R1, ",1,120k,RR0816P-124-D,Resistors_SMD:R_0603,Resistor,Susumu
+"R2, ",1,300,RR0816P-301-D,Resistors_SMD:R_0603,Resistor,Susumu
+"R3, ",1,200k,MCS04020C2003FE000,Resistors_SMD:R_0402,Resistor,Vishay
+"R4, ",1,5.6k,RR0510P-562-D,Resistors_SMD:R_0402,Resistor,Susumu
+"U1, ",1,LT3045EDD,LT3045EDD,Housings_DFN_QFN:DFN-10-1EP_3x3mm_Pitch0.5mm,"20V, 500mA, Ultralow Noise, Ultrahigh PSRR Linear Regulator, DFN Package",Linear Technology
+"W1, ",1,NET-TIE,,Custom footprints:NET-TIE-0.15mm,,
