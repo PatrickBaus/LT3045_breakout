@@ -13,7 +13,7 @@ The root folder contains the KiCAD files and the bill of materials, while the ge
 
 Thermal considerations
 -----
-The breakout board was tested with an LT3045 with different heatsink configurations to give an estimate on the expected temperature rise. This should help with the decision whether to add a heatsink or not. The test was done using a 35 µm (1 oz./ft²) Copper board. The LT3045 was configured for an 11 V output from a 13 V input running at ~500 mA.
+The breakout board was tested with an LT3045 with different heatsink configurations to give an estimate on the expected temperature rise. This should help with the decision whether to add a heatsink or not. The test was done using a 35 µm (1 oz./ft²) copper board. The LT3045 was configured for an 11 V output from a 13 V input running at ~500 mA.
 
 Using a thermal imaging camera the temperature was measured and the thermal resistance was calculated using the known ambient temperature (~23 °C).
 
