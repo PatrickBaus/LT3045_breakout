@@ -24,7 +24,7 @@ Using a thermal imaging camera the temperature was measured and the thermal resi
 ![LT3045 + heat sink](/images/thermal_heatsink.bmp)
 ![Heat sink filed out](/images/heatsink_filed.jpg)
 
-Dropping 2 V @ 500 mA a Fischer Elekronik [FK 220 SA 220](http://www.fischerelektronik.de/web_fischer/en_GB/heatsinks/C02/Attachable%20heatsink/PR/FK220_SA_220_/datasheet.xhtml) heat sink was used without any thermal compound. Because of the mounting style of the pin header (contacts on the back side of the board) some slight modification of the heat sink is required. A small cutout needs to be made using a file. If the heatsink is to be attached permanetely some thermal adhesive to glue it in place is recommended.
+Dropping 2 V @ 500 mA, a Fischer Elekronik [FK 220 SA 220](http://www.fischerelektronik.de/web_fischer/en_GB/heatsinks/C02/Attachable%20heatsink/PR/FK220_SA_220_/datasheet.xhtml) heat sink was used without any thermal compound. Because of the mounting style of the pin header (contacts on the back side of the board) some slight modification of the heat sink is required. A small cutout needs to be made using a file. If the heatsink is to be attached permanetely some thermal adhesive to glue it in place is recommended.
 
 ##### Summary Table
 
